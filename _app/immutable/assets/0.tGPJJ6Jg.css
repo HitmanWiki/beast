@@ -1788,7 +1788,7 @@ html:has(.drawer-toggle:checked) {
 }
 
 .w-\[80vw\] {
-    width: 20vw
+    width: 80vw
 }
 
 .w-\[90vw\] {
